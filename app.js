@@ -1,2 +1,2 @@
-var a = -30;
-var b = -a;
+var b = -50;
+var a = -b;
